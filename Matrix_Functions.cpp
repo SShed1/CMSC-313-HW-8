@@ -1,5 +1,5 @@
 /*
-File: Matrix Functions C++
+File: Matrix Functions C
 Author: Sam Shedwick
 Date: 4/19/2025
 
